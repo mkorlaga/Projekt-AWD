@@ -1,0 +1,6 @@
+suma_gwarancyjna_w_przypadku_szkód_na_osobie; suma_gwarancyjna_w_przypadku_szkód_na_mieniu; liczba_rat; wysokoœæ_jednej_raty; obszar_obowi¹zuj¹cy
+
+
+polska = 0
+ca³a eu = 1
+eu i poza eu = 2
